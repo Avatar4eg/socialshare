@@ -317,9 +317,13 @@ class listener implements EventSubscriberInterface
 			{
 				$data[13] = $this->config['lotusjeff_socialshare_vk_icon_seq'];
 			}
+			if ($this->config['lotusjeff_socialshare_mymail_icon'])
+			{
+				$data[14] = $this->config['lotusjeff_socialshare_mymail_icon_seq'];
+			}
 			if ($this->config['lotusjeff_socialshare_rss_icon'])
 			{
-				$data[14] = $this->config['lotusjeff_socialshare_rss_icon_seq'];
+				$data[15] = $this->config['lotusjeff_socialshare_rss_icon_seq'];
 			}
 			uasort($data, function($a, $b)
 			{

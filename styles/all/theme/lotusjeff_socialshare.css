@@ -21,6 +21,7 @@
 .sprite-twitter32 {width: 32px;height: 32px;background-position: -384px 0;}
 .sprite-vk32 {width: 32px;height: 32px;background-position: -416px 0;}
 .sprite-rss32 {width: 32px;height: 32px;background-position: -448px 0;}
+.sprite-mymail32 {width: 32px;height: 32px;background-position: -480px 0;}
 .sprite-blogger24 {width: 24px;height: 24px;background-position: -0px 0;}
 .sprite-delicious24 {width: 24px;height: 24px;background-position: -24px 0;}
 .sprite-digg24 {width: 24px;height: 24px;background-position: -48px 0;}
@@ -36,6 +37,7 @@
 .sprite-twitter24 {width: 24px;height: 24px;background-position: -288px 0;}
 .sprite-vk24 {width: 24px;height: 24px;background-position: -312px 0;}
 .sprite-rss24 {width: 24px;height: 24px;background-position: -336px 0;}
+.sprite-mymail24 {width: 24px;height: 24px;background-position: -360px 0;}
 .sprite-blogger16 {width: 16px;height: 16px;background-position: -0px 0;}
 .sprite-delicious16 {width: 16px;height: 16px;background-position: -16px 0;}
 .sprite-digg16 {width: 16px;height: 16px;background-position: -32px 0;}
@@ -51,6 +53,7 @@
 .sprite-twitter16 {width: 16px;height: 16px;background-position: -192px 0;}
 .sprite-vk16 {width: 16px;height: 16px;background-position: -208px 0;}
 .sprite-rss16 {width: 16px;height: 16px;background-position: -224px 0;}
+.sprite-mymail16 {width: 16px;height: 16px;background-position: -240px 0;}
 @media screen and (max-width: 705px) {
     .lotusjeff_socialshare_hover { display: none; }
 }
